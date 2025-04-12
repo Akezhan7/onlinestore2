@@ -1,0 +1,67 @@
+{"email":"Shelder@mail.ru","altShippingAddress":false,"billing":{"name":"Евгений","lastname":"Сагайдак","street":"Манаса 34","apartment":"dsadsad","zip_code":"050000","country":"Казахстан","city":"Алматы","state":"dsadasd","phone_number":"1231231231"},"shipping":{"name":"","lastname":"","street":"","apartment":"","zip_code":"","country":"","city":"","state":"","phone_number":""},"cardNumber":"123123","cardExpiry":"3123","cardCvc":"32131","cardholderName":"dsadsad"}
+==================
+ORDER DETAILS
+==================
+
+Order Email: Shelder@mail.ru
+Alt Shipping Address: No
+
+Billing Address:
+  Name: Евгений Сагайдак
+  Street: Манаса 34
+  Apartment: вфывыфв
+  ZIP Code: 050000
+  Country: Казахстан
+  City: Алматы
+  State: dsadasd
+  Phone: 1231231231
+
+Payment Details:
+  Card Number: 3213
+  Expiry: 3213
+  CVC: 3213
+  Cardholder Name: выфвыфв
+
+Purchased Items:
+  Item 1:
+    Product: TSOGAH FRONT
+    Price: 54
+    Quantity: 2
+    Subtotal: 108
+
+Final Total: 108
+==================
+
+==================
+ORDER DETAILS
+==================
+
+Order Email: Shelder@mail.ru
+Alt Shipping Address: No
+
+Billing Address:
+  Name: Евгений Сагайдак
+  Street: Манаса 34
+  Apartment: dasdasd
+  ZIP Code: 050000
+  Country: Казахстан
+  City: Алматы
+  State: dsadasd
+  Phone: 1231231231
+
+Payment Details:
+  Card Number: 2131231
+  Expiry: 123
+  CVC: 1231
+  Cardholder Name: dsadsad
+
+Purchased Items:
+  Item 1:
+    Product: TSOGAH FRONT
+    Price: 54
+    Quantity: 3
+    Subtotal: 162
+
+Final Total: 162
+==================
+
